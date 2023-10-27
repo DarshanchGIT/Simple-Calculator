@@ -21,7 +21,7 @@ This calculator project was created to practice JavaScript programming skills. I
 
 ## 💡 Usage
 
-To use the calculator, open the `index.html` file in your web browser. Enter numbers and select operations to perform calculations. The result will be displayed on the screen.
+To use the calculator, open the [Simple Calculator](https://darshanchgit.github.io/Simple-Calculator/) in your web browser. Enter numbers and select operations to perform calculations. The result will be displayed on the screen.
 
 ## 📂 Project Structure
 
@@ -38,4 +38,3 @@ If you wish to contribute to this project, fork it, make improvements, and submi
 This project is under the [MIT License](LICENSE), allowing free use and modification.
 
 Enjoy using the 🧮 Simple Calculator!
-
