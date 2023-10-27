@@ -21,7 +21,8 @@ This calculator project was created to practice JavaScript programming skills. I
 
 ## 💡 Usage
 
-To use the calculator, open the <a href="https://darshanchgit.github.io/Simple-Calculator/" target="_blank">Simple Calculator</a> in your web browser. Enter numbers and select operations to perform calculations. The result will be displayed on the screen.
+To use the calculator, open the <a href="https://darshanchgit.github.io/Simple-Calculator/" target="_blank" rel="noopener noreferrer">Simple Calculator</a> in your web browser. Enter numbers and select operations to perform calculations. The result will be displayed on the screen.
+
 
 ## 📂 Project Structure
 
